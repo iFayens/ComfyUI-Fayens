@@ -40,7 +40,6 @@ pip install -r requirements.txt
 ## Requirements
 - ComfyUI
 - Python 3.10+
-- GPU recommended (CUDA)
 
 ## Notes
 - Requires InsightFace models
