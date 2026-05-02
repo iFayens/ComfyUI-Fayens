@@ -1,0 +1,7 @@
+# Cache Python
+__pycache__/
+nodes/__pycache__/
+
+# Dossiers de test et output
+nodes/py_bak/
+nodes/iface.py
